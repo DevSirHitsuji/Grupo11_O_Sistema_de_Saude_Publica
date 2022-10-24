@@ -47,13 +47,16 @@ A fila para o atendimento diário de emergência não tem nenhum critério ou or
 
 - Problema: superlotação da leitos/fila
 
-- Solução: aumento do número de funcionários
+- Solução: aumento do número de funcionários e enaminhamento para outras instituições
 
 ****
 
 - Problema: falta de maquinário
 
 - Solução: investimentos
+
+## Solução geral
+- O hospital fará um investimento em uma equipe de desenvolvedores para melhorar o sistema de atendimento por meio de um (algoritmo avançado para sua época) que facilitará as tomadas de decisões. 
 
 <br>
 
