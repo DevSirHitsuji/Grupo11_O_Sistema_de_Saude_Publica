@@ -37,17 +37,7 @@ A fila para o atendimento diário de emergência não tem nenhum critério ou or
 
 <br>
 
-
-## ⚡ Important
-
-- Toda a construção da resolução do problema deverá estar no VISUAL STUDIO CODE, você pode utilizarferramentas externas como o lucid/para construir o fluxograma, mas precisará colocar ele dentro de um arquivo no VSCODE.
-
-- Data de entrega a partir de 12h do dia 24/10 até 23h59.
-
-- Não terá atividade de recuperação.
-
-<br>
-# Problemas no sistema de saúde do PdA
+## Problemas no sistema de saúde do PdA
 
 - Problema: falta de priorização na emergência
 
@@ -65,6 +55,7 @@ A fila para o atendimento diário de emergência não tem nenhum critério ou or
 
 - Solução: investimentos
 
+<br>
 
 ## :memo: Licença
 
